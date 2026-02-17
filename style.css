@@ -1,12 +1,38 @@
 body {
-    background-color: lightblue;
+    background-color: rgb(255, 255, 255);
   }
  img {
   border-radius: 40px;
 }
 
+#myHeader{
+  background-color: lightblue;
+  color: black;
+  padding: 20px;
+  text-align: center;
+}
 a {
-  background-color: rgb(255, 255, 255);
-  color: rgb(78, 139, 231);
+  background-color: rgb(255, 255, 255));
+  color: rgb(0,0,0);
   font-weight: bold;
+}
+
+nav{ 
+  background-color: lightblue;
+  padding-left: 20px;
+}
+
+header{
+  background-color: lightblue;
+  padding-left: 20px;
+}
+
+main{
+  background-color: lightblue;
+  padding-left: 20px;
+}
+
+footer{
+  background-color: lightblue;
+  padding-left: 20px;
 }
