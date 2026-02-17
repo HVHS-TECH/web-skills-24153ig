@@ -1,6 +1,12 @@
 body {
     background-color: lightblue;
   }
-  h1{
-    
-  }
+ img {
+  border-radius: 40px;
+}
+
+a {
+  background-color: rgb(255, 255, 255);
+  color: rgb(78, 139, 231);
+  font-weight: bold;
+}
