@@ -39,7 +39,19 @@ footer{
 
 .container{
   display:grid;
-  grid-template-columns:30%,70;
-  background-color: rgb(121, 170, 220);
+  grid-template-columns: 30%,70%;
   padding: 10px;
+}
+
+.container div {
+  background-color: white;
+  padding: 10px;
+}
+
+.container div.header {
+  text-align: center;
+}
+
+.container div.navbar {
+  grid-area: menu;
 }
