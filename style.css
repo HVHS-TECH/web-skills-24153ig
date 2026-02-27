@@ -8,7 +8,7 @@ body {
 
 nav{ 
   background-color: lightblue;
-  padding-left: 20px;
+  padding: 20px;
 }
 
 header{
@@ -17,7 +17,11 @@ header{
 
 main{
   background-color: lightblue;
-  padding-left: 20px;
+  padding: 20px;
+}
+
+h1{
+  padding: 20px;
 }
 
 footer{
